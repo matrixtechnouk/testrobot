@@ -3,7 +3,7 @@ var instance
 var user
 var IdStr = "457896541299"
 
-var contract = "0x24695FB2D2fC68cC88AA18bA68BCc41C9EecA39D"
+var contract = "0xcA51bA0Dbf7646C50f879222c3A647900Ab21de6"
 var contractOwner
 
 $(document).ready(function () {
